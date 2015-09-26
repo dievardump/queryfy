@@ -1,0 +1,18 @@
+{
+  "name": "queryfy",
+  "version": "0.0.1",
+  "description": "Queryfy a literal object",
+  "main": "queryfy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dievardump/queryfy.git"
+  },
+  "keywords": [
+    "queryfy"
+  ],
+  "author": "http://stackoverflow.com/a/1714899/1170900",
+  "license": "SEE LICENCE IN LICENCE FILE"
+}
